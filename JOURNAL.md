@@ -61,3 +61,7 @@ I then started the design of the control module. I added rod attachments and ser
 14 27 to 56
 
 15 32
+
+Finally, I've set up an assembly that joins all modules and the carbon fiber rods.
+
+![[Pasted image 20251016162347.png]]
