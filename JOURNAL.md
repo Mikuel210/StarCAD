@@ -1,16 +1,5 @@
 ## 12-10-2025: Creating the new CAD model
 
-- [ ] TODO: Make explainatory video
-
-Objectives:
-
-- [ ] Increased diameter
-- [ ] Bolt locking rods
-- [ ] New airflow straighteners
-- [ ] Only 1 rod segment
-- [ ] Foam on the landing legs
-- [ ] LiDAR under the motor
-
 Today I've set up a new Onshape document for the new design. I've made a main part studio that includes sketches that other modules might derive. It also has carbon fiber rods that all modules attach to.
 
 ![](Images/1.png)
@@ -43,31 +32,33 @@ Finally, I added the battery mounts:
 
 **Time spent: 1h 1min**
 
+Update video:
 
+![](Images/15-10-2025.mp4)
 ## 16-10-2025
 
-I started working on the guidance module. I've made a structure with attachments for the rods and for the PCB.
+Today I started working on the guidance module. I've made a structure with attachments for the rods and for the PCB.
 
-![[Pasted image 20251016143647.png]]
+![](Images/7.png)
 
 Next, I added servo attachments. These servos will control the deployment of the landing legs.
 
-![[Pasted image 20251016153816.png]]
+![](Images/8.png)
 
-I then started the design of the control module. I added rod attachments and servo mounts as well. These servos will control the thrust vector of the motor that will sit above on this same module.
+I then started the design of the control module. I've added rod attachments and servo mounts as well. These servos will control the thrust vector of the motor that will sit above on this same module.
 
-![[Pasted image 20251016160850.png]]
-
-14 27 to 56
-
-15 32 to 26
+![](Images/9.png)
 
 After that, I've set up an assembly that joins all modules and the carbon fiber rods.
 
-![[Pasted image 20251016162347.png]]
+![](Images/10.png)
 
 Next I've added attachments for the landing legs on the propulsion module:
 
-![[Pasted image 20251016191743.png]]
+![](Images/11.png)
 
-18 25
+Finally, I've added an attachment for a LiDAR at the bottom:
+
+![](Images/12.png)
+
+**Time spent: 1h 41min**
