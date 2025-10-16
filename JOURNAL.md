@@ -60,8 +60,14 @@ I then started the design of the control module. I added rod attachments and ser
 
 14 27 to 56
 
-15 32
+15 32 to 26
 
-Finally, I've set up an assembly that joins all modules and the carbon fiber rods.
+After that, I've set up an assembly that joins all modules and the carbon fiber rods.
 
 ![[Pasted image 20251016162347.png]]
+
+Next I've added attachments for the landing legs on the propulsion module:
+
+![[Pasted image 20251016191743.png]]
+
+18 25
