@@ -42,3 +42,22 @@ Finally, I added the battery mounts:
 ![](Images/6.png)
 
 **Time spent: 1h 1min**
+
+
+## 16-10-2025
+
+I started working on the guidance module. I've made a structure with attachments for the rods and for the PCB.
+
+![[Pasted image 20251016143647.png]]
+
+Next, I added servo attachments. These servos will control the deployment of the landing legs.
+
+![[Pasted image 20251016153816.png]]
+
+I then started the design of the control module. I added rod attachments and servo mounts as well. These servos will control the thrust vector of the motor that will sit above on this same module.
+
+![[Pasted image 20251016160850.png]]
+
+14 27 to 56
+
+15 32
