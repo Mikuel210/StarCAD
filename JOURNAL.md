@@ -57,8 +57,12 @@ Next I've added attachments for the landing legs on the propulsion module:
 
 ![](Images/11.png)
 
-Finally, I've added an attachment for a LiDAR at the bottom:
+After that, I've added an attachment for a LiDAR at the bottom:
 
 ![](Images/12.png)
 
-**Time spent: 1h 41min**
+Finally, I added the motor mount on the propulsion assembly and I added fillets on everything. The propulsion assembly is almost finished!
+
+![](Images/13.png)
+
+**Time spent: 2h 27min**
