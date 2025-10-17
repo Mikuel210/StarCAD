@@ -77,3 +77,20 @@ Next, I added the servos to the guidance assembly. These will control the deploy
 
 ![[Pasted image 20251017160739.png]]
 
+I then added the servos and TVC (Thrust Vector Control) vanes to the control assembly. These servos control the direction of the airflow from the motor to steer the rocket.
+
+![[Pasted image 20251017184424.png]]
+
+Next, I made the landing legs
+
+![[Pasted image 20251017194726.png]]
+
+![[Pasted image 20251017194844.png]]
+
+14 28 to 44
+
+15 31 to 16 39
+
+18 10
+
+-2miun
