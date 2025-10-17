@@ -87,10 +87,9 @@ Next, I made the landing legs
 
 ![[Pasted image 20251017194844.png]]
 
-14 28 to 44
+After that, I added some foam to reduce vibrations on deployment
 
-15 31 to 16 39
+![[Pasted image 20251017225513.png]]
 
-18 10
 
--2miun
+
