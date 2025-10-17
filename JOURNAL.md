@@ -66,3 +66,14 @@ Finally, I added the motor mount on the propulsion assembly and I added fillets 
 ![](Images/13.png)
 
 **Time spent: 2h 27min**
+
+## 17-10-2025
+
+I added a motor mount on the control assembly.
+
+![[Pasted image 20251017144351.png]]
+
+Next, I added the servos to the guidance assembly. These will control the deployment of the landing legs.
+
+![[Pasted image 20251017160739.png]]
+
