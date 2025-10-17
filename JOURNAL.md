@@ -69,7 +69,7 @@ Finally, I added the motor mount on the propulsion assembly and I added fillets 
 
 ## 17-10-2025
 
-I added a motor mount on the control assembly.
+Today I started by adding a motor mount on the control assembly.
 
 ![[Pasted image 20251017144351.png]]
 
@@ -87,9 +87,18 @@ Next, I made the landing legs
 
 ![[Pasted image 20251017194844.png]]
 
-After that, I added some foam to reduce vibrations on deployment
+After that, I added some foam to reduce vibrations on deployment.
 
 ![[Pasted image 20251017225513.png]]
 
+I then added the PCB to the guidance module.
 
+![[Pasted image 20251017233052.png]]
 
+Finally, I added bolts in the propulsion and guidance assemblies for locking the carbon fiber rods into the prints.
+
+![[Pasted image 20251018003304.png]]
+
+![[Pasted image 20251018003316.png]]
+
+**Time spent: 5h 8min**
