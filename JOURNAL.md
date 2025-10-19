@@ -71,34 +71,52 @@ Finally, I added the motor mount on the propulsion assembly and I added fillets 
 
 Today I started by adding a motor mount on the control assembly.
 
-![[Pasted image 20251017144351.png]]
+![](Images/14.png)
 
 Next, I added the servos to the guidance assembly. These will control the deployment of the landing legs.
 
-![[Pasted image 20251017160739.png]]
+![](Images/15.png)
 
 I then added the servos and TVC (Thrust Vector Control) vanes to the control assembly. These servos control the direction of the airflow from the motor to steer the rocket.
 
-![[Pasted image 20251017184424.png]]
+![](Images/16.png)
 
 Next, I made the landing legs
 
-![[Pasted image 20251017194726.png]]
+![](Images/17.png)
 
-![[Pasted image 20251017194844.png]]
+![](Images/18.png)
 
 After that, I added some foam to reduce vibrations on deployment.
 
-![[Pasted image 20251017225513.png]]
+![](Images/19.png)
 
 I then added the PCB to the guidance module.
 
-![[Pasted image 20251017233052.png]]
+![](Images/20.png)
 
 Finally, I added bolts in the propulsion and guidance assemblies for locking the carbon fiber rods into the prints.
 
-![[Pasted image 20251018003304.png]]
+![](Images/21.png)
 
-![[Pasted image 20251018003316.png]]
+![](Images/22.png)
 
 **Time spent: 5h 8min**
+
+## 19-10-2025
+
+Today I added bolts for locking the carbon fiber rods to the control module as well
+
+![](Images/23.png)
+
+After that I added drafts on airflow straighteners to strengthen their joint with the structure.
+
+![](Images/26.png)
+
+With this the new CAD model is complete!
+
+![](Images/25.png)
+
+![](Images/24.png)
+
+**Time spent: 37min**
