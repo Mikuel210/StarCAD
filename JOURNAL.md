@@ -1,4 +1,5 @@
-## 12-10-2025: Creating the new CAD model
+**Total time spent: 9h 46min**
+## 12-10-2025
 
 Today I've set up a new Onshape document for the new design. I've made a main part studio that includes sketches that other modules might derive. It also has carbon fiber rods that all modules attach to.
 
@@ -10,7 +11,7 @@ I've made 3 part studios, one for each module. I'm starting by remaking the prop
 
 **Time spent: 35min**
 
-## 15-10-2025: Starting the propulsion module
+## 15-10-2025
 
 I noticed a circular structure might be better for the propulsion module, because the motor will be mounted on its center and it's better if the clearance between the propeller and the structure is constant.
 
@@ -113,10 +114,20 @@ After that I added drafts on airflow straighteners to strengthen their joint wit
 
 ![](Images/26.png)
 
+**Time spent: 37min**
+
+## 21-10-2025
+
+Today I added some rod locking bolts that were missing on the landing legs.
+
+![](Images/27.png)
+
+![](Images/28.png)
+
 With this the new CAD model is complete!
 
-![](Images/25.png)
+![](Images/30.png)
 
-![](Images/24.png)
+![](Images/29.png)
 
-**Time spent: 37min**
+**Time spent: 33min**
