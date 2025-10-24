@@ -9,6 +9,8 @@ I've made 3 part studios, one for each module. I'm starting by remaking the prop
 
 ![](Images/2.png)
 
+**Update video: https://www.youtube.com/watch?v=QslWIr0iqu0**
+
 **Time spent: 35min**
 
 ## 15-10-2025
@@ -31,11 +33,9 @@ Finally, I added the battery mounts:
 
 ![](Images/6.png)
 
+**Update video: https://www.youtube.com/watch?v=JSfzUMDvaxE**
+
 **Time spent: 1h 1min**
-
-Update video:
-
-![](Images/15-10-2025.mp4)
 ## 16-10-2025
 
 Today I started working on the guidance module. I've made a structure with attachments for the rods and for the PCB.
@@ -66,8 +66,9 @@ Finally, I added the motor mount on the propulsion assembly and I added fillets 
 
 ![](Images/13.png)
 
-**Time spent: 2h 27min**
+**Update video: https://www.youtube.com/watch?v=vmcU9EiOCUA**
 
+**Time spent: 2h 27min**
 ## 17-10-2025
 
 Today I started by adding a motor mount on the control assembly.
@@ -102,8 +103,9 @@ Finally, I added bolts in the propulsion and guidance assemblies for locking the
 
 ![](Images/22.png)
 
-**Time spent: 5h 8min**
+**Update video: https://www.youtube.com/watch?v=1cldPWXz-BE**
 
+**Time spent: 5h 8min**
 ## 19-10-2025
 
 Today I added bolts for locking the carbon fiber rods to the control module as well
@@ -114,8 +116,9 @@ After that I added drafts on airflow straighteners to strengthen their joint wit
 
 ![](Images/26.png)
 
-**Time spent: 37min**
+**Update video: https://www.youtube.com/watch?v=FO4twKgDgY4**
 
+**Time spent: 37min**
 ## 21-10-2025
 
 Today I added some rod locking bolts that were missing on the landing legs.
@@ -130,8 +133,9 @@ With this the new CAD model is complete!
 
 ![](Images/29.png)
 
-**Time spent: 33min**
+**Update video: https://www.youtube.com/watch?v=he1Cd40KBA8**
 
+**Time spent: 33min**
 ## 24-10-2025
 
 Today, I made some prototypes to test some parts of the new design. This prototype tests the motor mount and the LiDAR mount:
@@ -142,5 +146,8 @@ And this prototype tests the attachment for the TVC vanes:
 
 ![](Images/32.png)
 
-**Time spent: 18min**
+After that, I edited the update videos I had been recording for each day. I had to crop and combine the audio and the screen recording for each video.
 
+![[33.png]]
+
+**Time spent: 18min on CAD + 22min editing**
