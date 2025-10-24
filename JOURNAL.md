@@ -1,4 +1,4 @@
-**Total time spent: 9h 46min**
+**Total time spent: 10h 4min**
 ## 12-10-2025
 
 Today I've set up a new Onshape document for the new design. I've made a main part studio that includes sketches that other modules might derive. It also has carbon fiber rods that all modules attach to.
@@ -131,3 +131,16 @@ With this the new CAD model is complete!
 ![](Images/29.png)
 
 **Time spent: 33min**
+
+## 24-10-2025
+
+Today, I made some prototypes to test some parts of the new design. This prototype tests the motor mount and the LiDAR mount:
+
+![](Images/31.png)
+
+And this prototype tests the attachment for the TVC vanes:
+
+![](Images/32.png)
+
+**Time spent: 18min**
+
