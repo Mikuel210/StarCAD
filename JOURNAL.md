@@ -1,4 +1,4 @@
-**Total time spent: 10h 26min**
+**Total time spent: 10h 42min**
 ## 12-10-2025
 
 Today I've set up a new Onshape document for the new design. I've made a main part studio that includes sketches that other modules might derive. It also has carbon fiber rods that all modules attach to.
