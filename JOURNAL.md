@@ -1,4 +1,4 @@
-**Total time spent: 10h 4min**
+**Total time spent: 10h 26min**
 ## 12-10-2025
 
 Today I've set up a new Onshape document for the new design. I've made a main part studio that includes sketches that other modules might derive. It also has carbon fiber rods that all modules attach to.
@@ -151,3 +151,11 @@ After that, I edited the update videos I had been recording for each day. I had 
 ![[33.png]]
 
 **Time spent: 18min on CAD + 22min editing**
+
+## 26-10-2025
+
+Today I rotated the LiDAR sensor on the bottom because I noticed its cable to the PCB would be shorter this way.
+
+![](Images/34.png)
+
+**Time spent: 16min**
