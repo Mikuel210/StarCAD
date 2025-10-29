@@ -148,7 +148,7 @@ And this prototype tests the attachment for the TVC vanes:
 
 After that, I edited the update videos I had been recording for each day. I had to crop and combine the audio and the screen recording for each video.
 
-![[33.png]]
+![](Images/33.png)
 
 **Time spent: 18min on CAD + 22min editing**
 
