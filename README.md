@@ -1,5 +1,7 @@
 # StarCAD
 
+**⚠️ NOTE: Since submitting the project for review, I have logged more entries on JOURNAL.md which I couldn't add to the Launchpad journal. Please have those into account as well. Thanks :)**
+
 **Project overview: https://www.youtube.com/watch?v=s3vASUfamTw**
 
 StarCAD is a new CAD model for Starkit. Starkit is an electric model rocket designed for propulsive landings built for Highway. However, I need to make major changes to its CAD model and the current CAD structure wouldn't allow for them. For that reason, I've decided the best path forward is to start over.
