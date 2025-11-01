@@ -1,4 +1,4 @@
-**Total time spent: 11h 17min**
+**Total time spent: 12h 42min**
 ## 12-10-2025
 
 Today I've set up a new Onshape document for the new design. I've made a main part studio that includes sketches that other modules might derive. It also has carbon fiber rods that all modules attach to.
@@ -159,3 +159,25 @@ Today I rotated the LiDAR sensor on the bottom because I noticed its cable to th
 ![](Images/34.png)
 
 **Time spent: 16min**
+
+## 01-11-2025
+
+Today I woke up and realized that I could make a simple change on the design and save a lot of mass. First, I removed the servos for leg deployment from the guidance assembly, leaving the PCB mount only.
+
+![](Images/35.png)
+
+Next, I moved the servos for leg deployment to the control assembly.
+
+![](Images/36.png)
+
+Finally, I updated the assemblies to use the new design.
+
+![](Images/37.png)
+
+![](Images/38.png)
+
+![](Images/39.png)<
+
+With this change, the guidance assembly weighs basically nothing, and the control assembly doesn't weigh that much more because it had already got the structure to hold servos.
+
+**Time spent: 1h 25min**
